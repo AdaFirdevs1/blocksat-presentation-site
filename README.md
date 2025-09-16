@@ -1,2 +1,2 @@
 # blocksat-presentation-site
-BlockSat projesinin tanıtımıiçi hazırlanmış bir sitedir.
+BlockSat projesinin tanıtımı için hazırlanmış bir sitedir.
